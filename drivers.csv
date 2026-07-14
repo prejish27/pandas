@@ -1,5 +1,8 @@
-name,team,titles
-Michael,ferrari,7
-lewis,mercedese,7
-sebastian,redbull,4
-max,redbull,4
+,Driver,Title,Team
+0,Michael Schumacher,7wdc,Ferrari
+1,Fernando Alonso,2wdc,McLaren
+2,Kimmi Raikkonen,1wdc,Ferrari
+3,Sebastian Vettel,4wdc,Redbull
+4,Nico Rosberg,1wdc,Mercedese
+5,Lewis Hamilton,7wdc,Mercedese
+6,Max Verstappen,4wdc,Redbull
